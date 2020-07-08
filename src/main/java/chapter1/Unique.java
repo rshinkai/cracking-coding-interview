@@ -1,6 +1,6 @@
 package chapter1;
 
-public class Question1 {
+public class Unique {
     /**
      * Assume str is ASCII string, so 128 characters
      * TimeComplexity: O(n)
